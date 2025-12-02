@@ -111,10 +111,13 @@ Utilizes Room Database for efficient, privacy-first data storage:
 - **Mental health focus**: Emphasizes the importance of digital wellbeing
 
 ---
-
 ## 📱 Screenshots
 
-> *Screenshots will be added here showcasing the beautiful UI across different screens*
+<img src="https://github.com/user-attachments/assets/89d1ac26-dd8a-432e-a0aa-1fec5d41329b" width="200"/> 
+<img src="https://github.com/user-attachments/assets/6fb9f27b-6617-44e5-b076-1c1504f8aa6d" width="200"/> 
+<img src="https://github.com/user-attachments/assets/c7c54de0-5c30-4856-afe7-65b9e6d6ad40" width="200"/>
+
+
 
 ---
 
