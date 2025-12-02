@@ -291,12 +291,12 @@ When excessive scrolling is detected, DoomShield intervenes with a beautiful, no
 
 #### Intervention Options:
 
-| Option | Duration | Effect |
-|--------|----------|--------|
-| 🧘 **Mindful Break** | 20 seconds | Guided breathing exercise |
-| ⏸️ **Pause DoomShield** | 10 minutes | Temporarily disable monitoring |
-| 🔒 **Block App** | 30 minutes | Prevent access to current app |
-| ✅ **Dismiss** | Instant | Acknowledge and continue (logged) |
+| Option                  | Duration   | Effect                            |
+|-------------------------|------------|-----------------------------------|
+| 🧘 **Mindful Break**    | 20 seconds | Guided breathing exercise         |
+| ⏸️ **Pause DoomShield** | 10 minutes | Temporarily disable monitoring    |
+| 🔒 **Block App**        | 30 minutes | Prevent access to current app     |
+| ✅ **Dismiss**           | Instant    | Acknowledge and continue (logged) |
 
 #### Smart Timing:
 - Won't interrupt important tasks (calls, navigation)
