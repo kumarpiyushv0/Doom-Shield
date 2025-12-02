@@ -6,7 +6,6 @@
 ![Language](https://img.shields.io/badge/Language-Kotlin-purple)
 ![UI](https://img.shields.io/badge/UI-Jetpack%20Compose-blue)
 ![Min SDK](https://img.shields.io/badge/Min%20SDK-26-orange)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 **A comprehensive digital wellbeing app built with Kotlin and Jetpack Compose to combat doomscrolling and promote healthier phone usage patterns.**
 
@@ -27,7 +26,6 @@
 - [How It Works](#-how-it-works)
 - [Building the Project](#-building-the-project)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
@@ -588,41 +586,12 @@ Found a bug? Have a feature request?
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2024 DoomShield
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-[Full license text...]
-```
-
----
-
 ## 🙏 Acknowledgments
 
 - **Jetpack Compose Team** for the amazing modern UI toolkit
 - **Android Open Source Project** for accessibility APIs
 - **Mental Health Community** for raising awareness about digital wellbeing
 - **Contributors** who help improve DoomShield
-
----
-
-## 📞 Contact & Support
-
-- **GitHub Issues**: [Report bugs or request features](https://github.com/yourusername/doomshield/issues)
-- **Discussions**: [Ask questions or share ideas](https://github.com/yourusername/doomshield/discussions)
-- **Email**: support@doomshield.app *(coming soon)*
 
 ---
 
