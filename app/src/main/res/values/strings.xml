@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Doom Shield</string>
+    <string name="accessibility_service_description">Doom Shield needs this permission to detect doomscrolling patterns and protect your digital well-being.</string>
+</resources>
