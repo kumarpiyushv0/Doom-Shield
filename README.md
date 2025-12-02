@@ -6,7 +6,6 @@
 ![Language](https://img.shields.io/badge/Language-Kotlin-purple)
 ![UI](https://img.shields.io/badge/UI-Jetpack%20Compose-blue)
 ![Min SDK](https://img.shields.io/badge/Min%20SDK-26-orange)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 **A comprehensive digital wellbeing app built with Kotlin and Jetpack Compose to combat doomscrolling and promote healthier phone usage patterns.**
 
@@ -27,7 +26,6 @@
 - [How It Works](#-how-it-works)
 - [Building the Project](#-building-the-project)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
@@ -111,10 +109,13 @@ Utilizes Room Database for efficient, privacy-first data storage:
 - **Mental health focus**: Emphasizes the importance of digital wellbeing
 
 ---
-
 ## 📱 Screenshots
 
-> *Screenshots will be added here showcasing the beautiful UI across different screens*
+<img src="https://github.com/user-attachments/assets/89d1ac26-dd8a-432e-a0aa-1fec5d41329b" width="200"/> 
+<img src="https://github.com/user-attachments/assets/6fb9f27b-6617-44e5-b076-1c1504f8aa6d" width="200"/> 
+<img src="https://github.com/user-attachments/assets/c7c54de0-5c30-4856-afe7-65b9e6d6ad40" width="200"/>
+
+
 
 ---
 
@@ -585,41 +586,12 @@ Found a bug? Have a feature request?
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2024 DoomShield
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-[Full license text...]
-```
-
----
-
 ## 🙏 Acknowledgments
 
 - **Jetpack Compose Team** for the amazing modern UI toolkit
 - **Android Open Source Project** for accessibility APIs
 - **Mental Health Community** for raising awareness about digital wellbeing
 - **Contributors** who help improve DoomShield
-
----
-
-## 📞 Contact & Support
-
-- **GitHub Issues**: [Report bugs or request features](https://github.com/yourusername/doomshield/issues)
-- **Discussions**: [Ask questions or share ideas](https://github.com/yourusername/doomshield/discussions)
-- **Email**: support@doomshield.app *(coming soon)*
 
 ---
 
